@@ -51,7 +51,7 @@ public class App
           while (sc2.hasNext())
           {
             int value = Integer.parseInt(sc2.next().replaceAll("\\s",""));
-            inputList.add(value);
+            inputList2.add(value);
           }
           System.out.println(inputList2);
 
